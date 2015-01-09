@@ -1,0 +1,14 @@
+{
+  "name": "phaser-plugin-isometric",
+  "license": "MIT",
+  "tags": ["js","haxe","phaser","extern","web"],
+  "description": "Haxe externs for Phaser Isometric plug-in",
+  "contributors": ["mathieuanthoine"],
+  "releasenote": "Release of version 1.",
+  "version": "1.0.0",
+  "url": "https://github.com/mathieuanthoine/haxe-phaser-plugin-isometric",
+  "classPath": "src",
+  "dependencies": {
+    
+  }
+}
